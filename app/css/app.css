@@ -6467,7 +6467,10 @@ body, html {
 
 }
 @media only screen and ( min-width: 1440px ){
-
+    .mainScreen {
+         width: 1920px;
+         height: 1280px;
+    }
 }
 @media only screen and (max-width: 1024px) {
     #logo_white, #logo_blek {
